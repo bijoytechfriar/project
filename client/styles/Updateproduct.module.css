@@ -1,0 +1,21 @@
+.modalcontainer {
+    height: 600px;
+    width: 85%;
+    margin-left: 15%;
+    padding: 30px;
+
+
+}
+
+.modalwrapper {
+    border: 10px solid blueviolet;
+    margin-top: 150px;
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+    border-radius: 10px;
+
+
+}
+
+.tr4{margin-top: 20px;}

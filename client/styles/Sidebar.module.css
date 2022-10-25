@@ -1,0 +1,52 @@
+.Sidecontainer{
+    position: fixed;
+    float: left !important;
+    width: 15%;
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.86);
+    box-shadow: 3px 0px 6px 0px black;
+    
+}
+
+.wrapper{ 
+    padding: 10px;
+    z-index: 1;
+}
+#link{
+    text-decoration: none !important;
+}
+
+.logo{
+    padding: 10px;
+    padding-left: 20px;
+    text-align: center;
+}
+.img{
+    border-radius:50%;
+}
+
+.wrapper>ul{
+    margin-top: 20px;
+
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: bold;
+    gap: 40px;
+}
+
+.icon{margin-top: 30px;}
+
+.wrapper>ul>a>button{
+    background-color: grey;
+    text-decoration: none !important;
+    margin-top: 20px;
+    width:180px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: bold;
+    gap: 40px;
+}
